@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Phillip Jhon Lumod</h1>
-<h3 align="center">Currently focusing on Mobile Development using Flutter</h3>
+<h3 align="center">"I am currently focusing on mobile development using Flutter</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=philliplumod&label=Profile%20views&color=0e75b6&style=flat" alt="philliplumod" /> </p>
 
